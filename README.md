@@ -31,3 +31,7 @@
 ## NodeJs
 
 * [使用Mongoose操作Mongodb数据库](https://github.com/Pasoul/blog/issues/1)
+
+## Typescript
+
+* [typescript手册-基础类型](https://github.com/Pasoul/blog/issues/15)
