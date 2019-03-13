@@ -34,4 +34,4 @@
 
 ## Typescript
 
-* [typescript手册-基础类型](https://github.com/Pasoul/blog/issues/15)
+* [typescript手册-数据类型](https://github.com/Pasoul/blog/issues/15)
