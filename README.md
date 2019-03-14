@@ -35,3 +35,5 @@
 ## Typescript
 
 * [typescript手册-数据类型](https://github.com/Pasoul/blog/issues/15)
+* [typescript手册-对象的类型-接口](https://github.com/Pasoul/blog/issues/16)
+* [typescript手册-类型推导和联合类型](https://github.com/Pasoul/blog/issues/17)
