@@ -36,4 +36,6 @@
 
 * [typescript手册-数据类型](https://github.com/Pasoul/blog/issues/15)
 * [typescript手册-对象的类型-接口](https://github.com/Pasoul/blog/issues/16)
+* [typescript手册-函数的类型](https://github.com/Pasoul/blog/issues/18)
 * [typescript手册-类型推导](https://github.com/Pasoul/blog/issues/17)
+* [typescript手册-类型断言](https://github.com/Pasoul/blog/issues/19)
