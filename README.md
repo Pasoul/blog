@@ -39,3 +39,4 @@
 * [typescript手册-函数的类型](https://github.com/Pasoul/blog/issues/18)
 * [typescript手册-类型推导](https://github.com/Pasoul/blog/issues/17)
 * [typescript手册-类型断言](https://github.com/Pasoul/blog/issues/19)
+* [typescript手册-类型别名type](https://github.com/Pasoul/blog/issues/20)
