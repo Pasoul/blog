@@ -40,3 +40,4 @@
 * [typescript手册-类型推导](https://github.com/Pasoul/blog/issues/17)
 * [typescript手册-类型断言](https://github.com/Pasoul/blog/issues/19)
 * [typescript手册-类型别名type](https://github.com/Pasoul/blog/issues/20)
+* [typescript手册-高级类型-联合类型、交叉类型](https://github.com/Pasoul/blog/issues/21)
