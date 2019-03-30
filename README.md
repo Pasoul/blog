@@ -42,3 +42,4 @@
 * [typescript手册-类型别名type](https://github.com/Pasoul/blog/issues/20)
 * [typescript手册-高级类型-联合类型、交叉类型](https://github.com/Pasoul/blog/issues/21)
 * [typescript手册-枚举](https://github.com/Pasoul/blog/issues/22)
+* [typescript手册-类](https://github.com/Pasoul/blog/issues/23)
