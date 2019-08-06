@@ -43,3 +43,10 @@
 * [typescript手册-高级类型-联合类型、交叉类型](https://github.com/Pasoul/blog/issues/21)
 * [typescript手册-枚举](https://github.com/Pasoul/blog/issues/22)
 * [typescript手册-类](https://github.com/Pasoul/blog/issues/23)
+* [typescript手册-枚举](https://github.com/Pasoul/blog/issues/24)
+* [typescript手册-类](https://github.com/Pasoul/blog/issues/25)
+
+## 重学JS系列
+
+* [类型、值和变量](https://github.com/Pasoul/blog/issues/26)
+* [数组](https://github.com/Pasoul/blog/issues/27)
