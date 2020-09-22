@@ -1,5 +1,10 @@
 # 目录
 
+## Jenkins
+* [centos8.2安装docker](https://github.com/Pasoul/blog/issues/31)
+* [Linux安装配置jenkins-docker篇](https://github.com/Pasoul/blog/issues/32)
+* [jenkins构建h5项目](https://github.com/Pasoul/blog/issues/33)
+
 ## 微信小程序
 
 * [微信小程序集成Jenkins](https://github.com/Pasoul/blog/issues/14)
@@ -45,8 +50,3 @@
 * [typescript手册-类](https://github.com/Pasoul/blog/issues/23)
 * [typescript手册-枚举](https://github.com/Pasoul/blog/issues/24)
 * [typescript手册-类](https://github.com/Pasoul/blog/issues/25)
-
-## 重学JS系列
-
-* [类型、值和变量](https://github.com/Pasoul/blog/issues/26)
-* [数组](https://github.com/Pasoul/blog/issues/27)
